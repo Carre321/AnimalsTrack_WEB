@@ -1,0 +1,24 @@
+/* AnimalsTrack · Propuesta 02: campo.
+   Verdes bosque, oliva y salvia con neutros cálidos y un acento tierra.
+   Los colores de estado conservan la referencia de la aplicación Desktop. */
+:root {
+  --at-primario: #315d3a;
+  --at-fondo: #f6f5ef;
+  --at-superficie: #ffffff;
+  --at-texto: #263329;
+  --at-texto-secundario: #5d695d;
+  --at-borde: #dadfd2;
+
+  --at-verde-oliva: #637a3d;
+  --at-verde-salvia: #dde7d5;
+  --at-tierra: #8c6846;
+  --at-crema: #f0ead8;
+
+  --at-aviso: #ab4a00;
+  --at-aviso-fondo: #fff4e8;
+  --at-proximo: #227d46;
+  --at-proximo-fondo: #eff9f3;
+  --at-hoy: #006096;
+  --at-hoy-fondo: #e7f4fc;
+
+}
